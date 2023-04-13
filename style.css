@@ -1,0 +1,23 @@
+.font-cursive {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.font-bold {
+    font-weight: 500;
+}
+.font-italic {
+    font-style: italic;
+}
+
+.text-2px {
+    font-size: 1,5rem;
+}
+.text-25px {
+    font-size: 1,5rem;
+}
+.text-10vh {
+    font-size: 10vh;
+}
+.line-25px {
+    line-height: 25px;
+}
